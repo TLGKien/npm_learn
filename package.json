@@ -1,5 +1,9 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": {
+		"email": "kienmathip1999@gmail.com",
+		"name": "tlgkien"
+	},
 	"dependencies": {
 		"express": "^4.14.0"
 	},
