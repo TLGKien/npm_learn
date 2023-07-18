@@ -2,8 +2,12 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": {
 		"email": "kienmathip1999@gmail.com",
-		"name": "tlgkien"
+		"name": "tlgk"
 	},
+	"description": "This is my description about project",
+	"keywords": ["freecodecamp","tlgk"],
+	"license": "BSD",
+	"version": "1.1.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -13,6 +17,6 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://idontknow/todo.git"
+		"url": "https://github.com/TLGKien/npm_learn"
 	}
 }
